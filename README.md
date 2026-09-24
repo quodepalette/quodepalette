@@ -1,9 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=QUODE%20PALETTE&fontColor=F6F5F1&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Web%20Development%20%26%20Design%20Studio&descAlignY=62&descSize=18&descColor=B0B0B0" alt="header"/>
+# QUODE PALETTE
+
+<sub>WEB DEVELOPMENT & DESIGN STUDIO</sub>
+
+<br/><br/>
 
 <a href="https://www.quodepalette.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=0D0D0D&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years" alt="typing"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=F6F5F1&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=0D0D0D&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years" alt="We build websites that drive results" />
+  </picture>
 </a>
 
 <br/>
@@ -106,12 +113,23 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&title_color=0D0D0D&icon_color=6E6E73&text_color=0D0D0D&bg_color=00000000&ring_color=0D0D0D" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&title_color=0D0D0D&text_color=0D0D0D&bg_color=00000000" alt="top langs"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=dark&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="top languages" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&stroke=0D0D0D&ring=0D0D0D&fire=0D0D0D&currStreakLabel=0D0D0D&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=6E6E73" alt="streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&theme=default" alt="streak stats" />
+</picture>
+
+<sub>If these show a plain "loading" or error state on first view, refresh after a few seconds — they're free serverless widgets shared across every GitHub profile that uses them, and occasionally lag or time out under load.</sub>
 
 </div>
 
@@ -139,6 +157,10 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <img src="https://komarev.com/ghpvc/?username=quodepalette&style=flat-square&color=0d0d0d&label=PROFILE+VIEWS" alt="profile views"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" alt="footer"/>
+<br/><br/>
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+<sub>© 2026 Quode Palette — quodepalette.com</sub>
 
 </div>
