@@ -1,60 +1,354 @@
-<div align="center">
+# QUODE PALETTE
 
-# `> quodepalette_`
+### `Digital experiences engineered to perform.`
 
-**Web studio · App builder · Ghana 🇬🇭**
+**Quode Palette** is a web development & design studio building **modern, responsive, high-performance digital products** for businesses, startups, and creators.
 
-[![Website](https://img.shields.io/badge/quodepalette.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quodepalette.com)
+We combine **design, engineering, performance, and strategy** to turn ideas into products people can actually use.
 
-</div>
+<br>
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   QUODE PALETTE                                              │
+│                                                              │
+│   DESIGN  ×  ENGINEERING  ×  PERFORMANCE                    │
+│                                                              │
+│   Websites        Web Apps        Digital Experiences        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+**→ [quodepalette.com](https://www.quodepalette.com)**
 
 ---
 
-## `whoami`
+## `01` — WHAT WE BUILD
 
-```bash
-$ cat quodepalette.json
-{
-  "studio":   "Quode Palette (QP)",
-  "location": "Accra, Ghana",
-  "focus":    ["web design", "web development", "mobile & desktop apps"],
-  "mission":  "Ship fast, clean, good-looking software",
-  "status":   "building 🟢"
-}
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  WEB EXPERIENCES                                             │
+│  ├── Business Websites                                      │
+│  ├── Landing Pages                                          │
+│  ├── E-Commerce                                              │
+│  ├── Web Applications                                       │
+│  ├── Dashboards                                             │
+│  └── Digital Platforms                                      │
+│                                                             │
+│  PRODUCT DESIGN                                              │
+│  ├── UI / UX                                                │
+│  ├── Responsive Interfaces                                  │
+│  ├── Design Systems                                         │
+│  └── Brand-Aligned Experiences                              │
+│                                                             │
+│  ENGINEERING                                                 │
+│  ├── Performance                                            │
+│  ├── SEO                                                    │
+│  ├── API & Payment Integrations                             │
+│  ├── Analytics                                              │
+│  └── Scalable Architecture                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-## `stack --list`
+Every project starts with the same objective:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+> **Make the experience simple for the user and solid under the hood.**
 
-## `ls ./projects`
+---
 
-| Project | What it is | Tech |
-|---|---|---|
-| 🌐 **Quode Palette** | Studio site, demos & client work | Next.js · React · Tailwind |
-| 🎬 **NadjelStream** | Movie & series streaming site | HTML · CSS · JS |
-| 🎵 **JoErl Music Player** | Sleek music player app | Flutter |
-| 🎙️ **JoErl Podcast** | RSS podcast player | Flutter |
-| 🎮 **JoErl Games** | Windows game launcher | Flutter |
+## `02` — OUR STACK
 
-## `what_i_do`
+### Frontend
 
-- 🖥️ Custom websites for businesses: restaurants, accounting, portfolios and more
-- 📱 Cross-platform apps with polished, UI-first design
-- ⚡ Performance-obsessed: fast on mobile, tuned for real networks
-- 🎨 Clean visual identity, from palette to pixels
+```text
+Next.js
+React
+TypeScript
+Tailwind CSS
+HTML
+CSS
+JavaScript
+```
 
-## `connect`
+### Motion & Experience
 
-[![Website](https://img.shields.io/badge/Visit-quodepalette.com-blueviolet?style=flat-square)](https://quodepalette.com)
+```text
+Framer Motion
+Responsive Design
+Micro-interactions
+Modern UI Systems
+```
 
-<sub>`// built with caffeine and Flutter hot reload`</sub>
+### Infrastructure & Tooling
+
+```text
+Git
+GitHub
+Vercel
+REST APIs
+Payment Integrations
+Analytics
+SEO
+Performance Optimization
+```
+
+---
+
+## `03` — ENGINEERING PRINCIPLES
+
+### ⚡ Performance First
+
+A website shouldn't just look fast.
+
+It should **be fast**.
+
+We build with performance in mind from architecture through deployment.
+
+### 📱 Mobile First
+
+The experience needs to work everywhere.
+
+```text
+mobile → tablet → laptop → desktop
+```
+
+One product. Every screen.
+
+### 🎯 Purpose Before Complexity
+
+More features don't automatically create a better product.
+
+We focus on what the user actually needs.
+
+### 🧩 Clean Architecture
+
+Readable code.
+
+Reusable components.
+
+Predictable systems.
+
+Less unnecessary complexity.
+
+### 🔍 SEO From Day One
+
+Search visibility isn't something to bolt on at the end.
+
+Structure, metadata, performance and content all matter.
+
+### 🚀 Built To Grow
+
+A good website shouldn't become a problem when the business grows.
+
+We build foundations that can evolve with the product.
+
+---
+
+## `04` — SELECTED BUILDS
+
+### 🎬 Nadjel Stream
+
+A modern streaming platform for discovering and accessing movies and series.
+
+**Focus:** Streaming · Media · Responsive UI
+
+→ [movies.quodepalette.com](https://movies.quodepalette.com)
+
+---
+
+### 🎟️ Eventify
+
+An event discovery and ticket purchasing platform designed around a smooth booking experience.
+
+**Focus:** Events · Ticketing · Payments · UX
+
+→ [eventify.quodepalette.com](https://eventify.quodepalette.com)
+
+---
+
+### 🎓 Steinford University
+
+A modern university experience showcasing courses, faculty and campus life.
+
+**Focus:** Education · Content Architecture · Responsive Design
+
+→ [steinford.quodepalette.com](https://steinford.quodepalette.com)
+
+---
+
+### 👨‍💻 Developer Portfolio
+
+A personal developer portfolio designed to communicate skills, projects and technical experience.
+
+**Focus:** Portfolio · Personal Brand · UX
+
+→ [portfolio.quodepalette.com](https://portfolio.quodepalette.com)
+
+---
+
+### 🍖 Smokehouse BBQ
+
+A restaurant experience combining menu presentation, visual storytelling and reservations.
+
+**Focus:** Restaurant · Menu · Gallery · Reservations
+
+→ [restaurant.quodepalette.com](https://restaurant.quodepalette.com)
+
+---
+
+### 📊 Ledger & Co
+
+A professional digital presence for a chartered accounting firm.
+
+**Focus:** Professional Services · Business · Conversion
+
+→ [accounting.quodepalette.com](https://accounting.quodepalette.com)
+
+---
+
+## `05` — HOW WE WORK
+
+```text
+             ┌───────────────┐
+             │   DISCOVERY   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    DESIGN     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │     BUILD     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    REVIEW     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    LAUNCH     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    GROW       │
+             └───────────────┘
+```
+
+**Discover → Design → Build → Refine → Launch → Grow**
+
+The website describes this as a six-step process beginning with understanding the client's business and audience, followed by strategy/design, development, revisions, deployment, and ongoing support.
+
+---
+
+## `06` — THE NUMBERS
+
+```text
+53+       PROJECTS COMPLETED
+
+5+        YEARS EXPERIENCE
+
+90%       CLIENT SATISFACTION
+
+24/7      SUPPORT AVAILABLE
+```
+
+*Current figures presented on the Quode Palette website.*
+
+---
+
+## `07` — THE QUODE PALETTE MINDSET
+
+```text
+              IDEA
+               │
+               ▼
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │ ENGINEERING  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │ PERFORMANCE  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   LAUNCH     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   GROW       │
+        └──────────────┘
+```
+
+We're interested in the intersection between **what looks good, what works well, and what creates measurable value.**
+
+---
+
+## `08` — CURRENTLY BUILDING
+
+```bash
+$ cd quode-palette
+
+$ git status
+
+On branch main
+
+Changes not staged for commit:
+
+  modified:   ideas
+  modified:   products
+  modified:   experiences
+
+nothing is ever really finished.
+
+$ git commit -m "keep building"
+```
+
+---
+
+## `09` — LET'S BUILD
+
+Have an idea?
+
+Need a website?
+
+Building a digital product?
+
+Looking to turn an existing concept into something real?
+
+### Start here →
+
+**[www.quodepalette.com](https://www.quodepalette.com)**
+
+---
+
+<p align="center">
+
+### QUODE PALETTE
+
+**Design it. Build it. Make it perform.**
+
+<br>
+
+`Web Development` · `UI/UX` · `Performance` · `Digital Products`
+
+<br>
+
+🇬🇭 **Built from Ghana. Built for the web.**
+
+</p>
