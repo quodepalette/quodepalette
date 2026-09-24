@@ -1,354 +1,317 @@
-# QUODE PALETTE
+<div align="center">
 
-### `Digital experiences engineered to perform.`
+# <img src="https://raw.githubusercontent.com/quodepalette/.github/main/profile/assets/qp-mark.svg" width="42" valign="middle"> QUODE PALETTE
 
-**Quode Palette** is a web development & design studio building **modern, responsive, high-performance digital products** for businesses, startups, and creators.
-
-We combine **design, engineering, performance, and strategy** to turn ideas into products people can actually use.
+### **WE BUILD DIGITAL EXPERIENCES THAT MOVE.**
 
 <br>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   QUODE PALETTE                                              │
-│                                                              │
-│   DESIGN  ×  ENGINEERING  ×  PERFORMANCE                    │
-│                                                              │
-│   Websites        Web Apps        Digital Experiences        │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+[![Website](https://img.shields.io/badge/QUODEPALETTE.COM-0A0A0A?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.quodepalette.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/quodepalette)
 
-**→ [quodepalette.com](https://www.quodepalette.com)**
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,20&section=header&text=DESIGN%20×%20CODE%20×%20MOTION&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+</div>
 
 ---
 
-## `01` — WHAT WE BUILD
+# `01` — WE DON'T JUST BUILD WEBSITES.
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  WEB EXPERIENCES                                             │
-│  ├── Business Websites                                      │
-│  ├── Landing Pages                                          │
-│  ├── E-Commerce                                              │
-│  ├── Web Applications                                       │
-│  ├── Dashboards                                             │
-│  └── Digital Platforms                                      │
-│                                                             │
-│  PRODUCT DESIGN                                              │
-│  ├── UI / UX                                                │
-│  ├── Responsive Interfaces                                  │
-│  ├── Design Systems                                         │
-│  └── Brand-Aligned Experiences                              │
-│                                                             │
-│  ENGINEERING                                                 │
-│  ├── Performance                                            │
-│  ├── SEO                                                    │
-│  ├── API & Payment Integrations                             │
-│  ├── Analytics                                              │
-│  └── Scalable Architecture                                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+We build **digital experiences**.
 
-Every project starts with the same objective:
+Quode Palette is a web development & design studio focused on creating **modern, responsive and high-performance products** for businesses, startups and creators.
 
-> **Make the experience simple for the user and solid under the hood.**
-
----
-
-## `02` — OUR STACK
-
-### Frontend
+Our work sits at the intersection of:
 
 ```text
-Next.js
-React
-TypeScript
-Tailwind CSS
-HTML
-CSS
-JavaScript
-```
-
-### Motion & Experience
-
-```text
-Framer Motion
-Responsive Design
-Micro-interactions
-Modern UI Systems
-```
-
-### Infrastructure & Tooling
-
-```text
-Git
-GitHub
-Vercel
-REST APIs
-Payment Integrations
-Analytics
-SEO
-Performance Optimization
-```
-
----
-
-## `03` — ENGINEERING PRINCIPLES
-
-### ⚡ Performance First
-
-A website shouldn't just look fast.
-
-It should **be fast**.
-
-We build with performance in mind from architecture through deployment.
-
-### 📱 Mobile First
-
-The experience needs to work everywhere.
-
-```text
-mobile → tablet → laptop → desktop
-```
-
-One product. Every screen.
-
-### 🎯 Purpose Before Complexity
-
-More features don't automatically create a better product.
-
-We focus on what the user actually needs.
-
-### 🧩 Clean Architecture
-
-Readable code.
-
-Reusable components.
-
-Predictable systems.
-
-Less unnecessary complexity.
-
-### 🔍 SEO From Day One
-
-Search visibility isn't something to bolt on at the end.
-
-Structure, metadata, performance and content all matter.
-
-### 🚀 Built To Grow
-
-A good website shouldn't become a problem when the business grows.
-
-We build foundations that can evolve with the product.
-
----
-
-## `04` — SELECTED BUILDS
-
-### 🎬 Nadjel Stream
-
-A modern streaming platform for discovering and accessing movies and series.
-
-**Focus:** Streaming · Media · Responsive UI
-
-→ [movies.quodepalette.com](https://movies.quodepalette.com)
-
----
-
-### 🎟️ Eventify
-
-An event discovery and ticket purchasing platform designed around a smooth booking experience.
-
-**Focus:** Events · Ticketing · Payments · UX
-
-→ [eventify.quodepalette.com](https://eventify.quodepalette.com)
-
----
-
-### 🎓 Steinford University
-
-A modern university experience showcasing courses, faculty and campus life.
-
-**Focus:** Education · Content Architecture · Responsive Design
-
-→ [steinford.quodepalette.com](https://steinford.quodepalette.com)
-
----
-
-### 👨‍💻 Developer Portfolio
-
-A personal developer portfolio designed to communicate skills, projects and technical experience.
-
-**Focus:** Portfolio · Personal Brand · UX
-
-→ [portfolio.quodepalette.com](https://portfolio.quodepalette.com)
-
----
-
-### 🍖 Smokehouse BBQ
-
-A restaurant experience combining menu presentation, visual storytelling and reservations.
-
-**Focus:** Restaurant · Menu · Gallery · Reservations
-
-→ [restaurant.quodepalette.com](https://restaurant.quodepalette.com)
-
----
-
-### 📊 Ledger & Co
-
-A professional digital presence for a chartered accounting firm.
-
-**Focus:** Professional Services · Business · Conversion
-
-→ [accounting.quodepalette.com](https://accounting.quodepalette.com)
-
----
-
-## `05` — HOW WE WORK
-
-```text
-             ┌───────────────┐
-             │   DISCOVERY   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    DESIGN     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    REVIEW     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    LAUNCH     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    GROW       │
-             └───────────────┘
-```
-
-**Discover → Design → Build → Refine → Launch → Grow**
-
-The website describes this as a six-step process beginning with understanding the client's business and audience, followed by strategy/design, development, revisions, deployment, and ongoing support.
-
----
-
-## `06` — THE NUMBERS
-
-```text
-53+       PROJECTS COMPLETED
-
-5+        YEARS EXPERIENCE
-
-90%       CLIENT SATISFACTION
-
-24/7      SUPPORT AVAILABLE
-```
-
-*Current figures presented on the Quode Palette website.*
-
----
-
-## `07` — THE QUODE PALETTE MINDSET
-
-```text
-              IDEA
-               │
+          DESIGN
+             ╲
+              ╲
                ▼
         ┌──────────────┐
-        │    DESIGN    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ ENGINEERING  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ PERFORMANCE  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   LAUNCH     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   GROW       │
+        │              │
+        │    QUODE     │
+        │   PALETTE    │
+        │              │
         └──────────────┘
+               ▲
+              ╱
+             ╱
+        ENGINEERING
+             +
+         PERFORMANCE
 ```
 
-We're interested in the intersection between **what looks good, what works well, and what creates measurable value.**
+**Beautiful interfaces.
+Thoughtful engineering.
+Fast experiences.**
 
 ---
 
-## `08` — CURRENTLY BUILDING
+<div align="center">
 
-```bash
-$ cd quode-palette
-
-$ git status
-
-On branch main
-
-Changes not staged for commit:
-
-  modified:   ideas
-  modified:   products
-  modified:   experiences
-
-nothing is ever really finished.
-
-$ git commit -m "keep building"
-```
-
----
-
-## `09` — LET'S BUILD
-
-Have an idea?
-
-Need a website?
-
-Building a digital product?
-
-Looking to turn an existing concept into something real?
-
-### Start here →
-
-**[www.quodepalette.com](https://www.quodepalette.com)**
-
----
-
-<p align="center">
-
-### QUODE PALETTE
-
-**Design it. Build it. Make it perform.**
+## `THE STACK`
 
 <br>
 
-`Web Development` · `UI/UX` · `Performance` · `Digital Products`
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,git,github,vercel&theme=dark" />
+
+<br><br>
+
+`NEXT.JS`   `REACT`   `TYPESCRIPT`   `TAILWIND`
+
+`FRAMER MOTION`   `SEO`   `PERFORMANCE`
+
+</div>
+
+---
+
+# `02` — THE WAY WE BUILD
+
+### **01 / DISCOVER**
+
+We understand the business, the audience and the problem before writing the first line of code.
+
+### **02 / DESIGN**
+
+Structure, hierarchy, interaction and visual identity become one system.
+
+### **03 / ENGINEER**
+
+Clean, scalable and responsive technology turns the design into a real product.
+
+### **04 / REFINE**
+
+Details matter.
+
+Spacing.
+Motion.
+Loading states.
+Mobile behavior.
+Accessibility.
+Performance.
+
+### **05 / LAUNCH**
+
+We ship.
+
+### **06 / GROW**
+
+The launch isn't the finish line.
+
+It's version `1.0`.
+
+---
+
+<div align="center">
+
+# `03` — BUILT TO BE EXPERIENCED
+
+</div>
+
+### 🎬 NADJEL STREAM
+
+**Streaming / Media**
+
+A modern streaming experience built around discovery, content and playback.
+
+**→** [Explore the experience](https://movies.quodepalette.com)
+
+---
+
+### 🎟️ EVENTIFY
+
+**Events / Ticketing**
+
+A complete event discovery and ticket purchasing experience.
+
+**→** [Explore the experience](https://eventify.quodepalette.com)
+
+---
+
+### 🎓 STEINFORD UNIVERSITY
+
+**Education / Institutional**
+
+A polished university experience covering courses, faculty and campus life.
+
+**→** [Explore the experience](https://steinford.quodepalette.com)
+
+---
+
+### 🍖 SMOKEHOUSE BBQ
+
+**Restaurant / Hospitality**
+
+Menu, gallery and reservations wrapped into one visual experience.
+
+**→** [Explore the experience](https://restaurant.quodepalette.com)
+
+---
+
+### 📊 LEDGER & CO
+
+**Professional Services / Finance**
+
+A premium digital presence for a chartered accounting firm.
+
+**→** [Explore the experience](https://accounting.quodepalette.com)
+
+---
+
+# `04` — NUMBERS DON'T LIE
+
+<div align="center">
+
+|     `53+`    |    `5+`   |       `90%`      |    `24/7`   |
+| :----------: | :-------: | :--------------: | :---------: |
+| **PROJECTS** | **YEARS** | **SATISFACTION** | **SUPPORT** |
+
+</div>
 
 <br>
 
-🇬🇭 **Built from Ghana. Built for the web.**
+> **53+ projects completed.**
+> **5+ years experience.**
+> **90% client satisfaction.**
+> **24/7 support availability.**
 
-</p>
+---
+
+<div align="center">
+
+# `05` — PERFORMANCE IS A FEATURE
+
+<br>
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│       FAST       RESPONSIVE       SCALABLE         │
+│                                                    │
+│         SEO              MOBILE-FIRST              │
+│                                                    │
+│                 PERFORMANCE                       │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
+
+<br>
+
+**The goal isn't to make a website that looks good in a screenshot.**
+
+**The goal is to make something that feels good in someone's hands.**
+
+</div>
+
+---
+
+# `06` — MOTION IS PART OF THE LANGUAGE
+
+We believe interfaces shouldn't feel static.
+
+They should respond.
+
+```text
+hover
+  ↓
+interaction
+  ↓
+feedback
+  ↓
+motion
+  ↓
+understanding
+```
+
+That's why motion, transitions and micro-interactions are treated as part of the experience — not decoration added at the end.
+
+---
+
+<div align="center">
+
+# `07` — CURRENTLY BUILDING
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Beautiful+interfaces.;Fast+experiences.;Scalable+products.;Digital+experiences+that+move.;The+next+version+of+Quode+Palette." />
+
+<br><br>
+
+```text
+STATUS
+████████████████████████████████████████  BUILDING
+
+DESIGN          ████████████████████░░░░
+ENGINEERING     █████████████████████░░░
+MOTION          ███████████████████░░░░░
+PERFORMANCE     ████████████████████████
+IDEAS           ██████████████████████████
+```
+
+</div>
+
+---
+
+# `08` — OUR RULES
+
+```diff
++ Design with intention
++ Build with precision
++ Optimize relentlessly
++ Make mobile a first-class citizen
++ Keep interfaces human
++ Ship real products
++ Sweat the details
+
+- Unnecessary complexity
+- Slow experiences
+- Generic templates
+- "It works on my machine"
+```
+
+---
+
+<div align="center">
+
+# `09` — LET'S BUILD SOMETHING
+
+### Have an idea?
+
+### Need a website?
+
+### Building a product?
+
+<br>
+
+**Let's turn it into something people remember.**
+
+<br>
+
+<a href="https://www.quodepalette.com">
+
+<img src="https://img.shields.io/badge/START_A_PROJECT-ffffff?style=for-the-badge&logoColor=black&labelColor=ffffff&color=ffffff" />
+
+</a>
+
+<br><br>
+
+### **[QUODEPALETTE.COM →](https://www.quodepalette.com)**
+
+<br>
+
+---
+
+`DESIGN`   ×   `ENGINEERING`   ×   `MOTION`   ×   `PERFORMANCE`
+
+<br>
+
+**QUODE PALETTE © 2026**
+
+### *Built from Ghana. Designed for the web.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,20&section=footer" width="100%"/>
