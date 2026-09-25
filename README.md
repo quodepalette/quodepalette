@@ -116,11 +116,10 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1&icon_color=7CA4FF&ring_color=7CA4FF" />
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D&icon_color=7CA4FF&ring_color=7CA4FF" alt="GitHub stats" /> -->
+
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1" />
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D" alt="top languages" /> -->
 </picture>
 
 <br/>
@@ -129,8 +128,6 @@ Quode Palette is a professional **web development studio** building modern, resp
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&stroke=7CA4FF&ring=7CA4FF&fire=7CA4FF&currStreakLabel=F6F5F1&sideLabels=F6F5F1&currStreakNum=F6F5F1&sideNums=F6F5F1&dates=B0B0B0" />
   <img src="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&stroke=7CA4FF&ring=7CA4FF&fire=7CA4FF&currStreakLabel=0D0D0D&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=6E6E73" alt="streak stats" />
 </picture>
-
-<sub>If these show a plain "loading" or error state on first view, refresh after a few seconds — they're free serverless widgets shared across every GitHub profile that uses them, and occasionally lag or time out under load.</sub>
 
 </div>
 
