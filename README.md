@@ -114,19 +114,19 @@ Quode Palette is a professional **web development studio** building modern, resp
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1&icon_color=F6F5F1&ring_color=F6F5F1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D&icon_color=0D0D0D&ring_color=0D0D0D" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=dark&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=default&bg_color=00000000" alt="top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D" alt="top languages" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&theme=dark" />
-  <img src="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&theme=default" alt="streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&stroke=F6F5F1&ring=F6F5F1&fire=F6F5F1&currStreakLabel=F6F5F1&sideLabels=F6F5F1&currStreakNum=F6F5F1&sideNums=F6F5F1&dates=B0B0B0" />
+  <img src="https://streak-stats.demolab.com/?user=quodepalette&hide_border=true&background=00000000&stroke=0D0D0D&ring=0D0D0D&fire=0D0D0D&currStreakLabel=0D0D0D&sideLabels=0D0D0D&currStreakNum=0D0D0D&sideNums=0D0D0D&dates=6E6E73" alt="streak stats" />
 </picture>
 
 <sub>If these show a plain "loading" or error state on first view, refresh after a few seconds — they're free serverless widgets shared across every GitHub profile that uses them, and occasionally lag or time out under load.</sub>
