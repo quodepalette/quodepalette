@@ -116,11 +116,11 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1&icon_color=7CA4FF&ring_color=7CA4FF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D&icon_color=7CA4FF&ring_color=7CA4FF" alt="GitHub stats" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=quodepalette&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D&icon_color=7CA4FF&ring_color=7CA4FF" alt="GitHub stats" /> -->
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=F6F5F1&text_color=F6F5F1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D" alt="top languages" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quodepalette&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&title_color=0D0D0D&text_color=0D0D0D" alt="top languages" /> -->
 </picture>
 
 <br/>
@@ -159,7 +159,6 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <br/><br/>
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 <sub>© 2026 Quode Palette • quodepalette.com</sub>
 
