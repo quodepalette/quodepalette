@@ -23,7 +23,7 @@
 
 <br/>
 
-## ⎯⎯⎯ About the Studio
+## ● About the Studio
 
 Quode Palette is a professional **web development studio** building modern, responsive, high-performance websites and digital products for businesses, startups, and creators — where clean code meets deliberate design.
 
@@ -38,7 +38,7 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <br/>
 
-## ⎯⎯⎯ Tech Stack
+## ● Tech Stack
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <br/>
 
-## ⎯⎯⎯ GitHub Stats
+## ● GitHub Stats
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <br/>
 
-## ⎯⎯⎯ Contribution Graph
+## ● Contribution Graph
 
 <div align="center">
 <picture>
@@ -160,7 +160,7 @@ Quode Palette is a professional **web development studio** building modern, resp
 
 <br/><br/>
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+●●●●●●●●●●●●●●●●⎯
 
 <sub>© 2026 Quode Palette — quodepalette.com</sub>
 
