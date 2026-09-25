@@ -25,7 +25,7 @@
 
 ## • About the Studio
 
-Quode Palette is a professional **web development studio** building modern, responsive, high-performance websites and digital products for businesses, startups, and creators — where clean code meets deliberate design.
+Quode Palette is a professional web development studio that creates stunning, high-performance websites, and digital solutions for businesses, startups, and entrepreneurs.
 
 <table align="center" width="100%">
 <tr>
