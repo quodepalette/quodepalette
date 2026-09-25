@@ -8,8 +8,8 @@
 
 <a href="https://www.quodepalette.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=F6F5F1&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=0D0D0D&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years" alt="We build websites that drive results" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=F6F5F1&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years;%3CImagine+%C2%B7+Plan+%C2%B7+Execute+%2F%3E" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=0D0D0D&center=true&vCenter=true&width=600&lines=We+Build+Websites+That+Drive+Results;Modern+%E2%80%A2+Responsive+%E2%80%A2+High-Performance;Next.js+%2F+React+%2F+Full-Stack+Engineering;53%2B+Projects+Shipped+%E2%80%A2+5%2B+Years;%3CImagine+%C2%B7+Plan+%C2%B7+Execute+%2F%3E" alt="We build websites that drive results" />
   </picture>
 </a>
 
@@ -71,11 +71,11 @@ Quode Palette is a professional **web development studio** building modern, resp
 <br/>
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D0D0D?style=flat-square&logo=githubactions&logoColor=7CA4FF)
 ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=7CA4FF)
-![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=flat-square&logo=amazonaws&logoColor=7CA4FF)
+![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=flat-square)
 ![GCP](https://img.shields.io/badge/Google_Cloud-0D0D0D?style=flat-square&logo=googlecloud&logoColor=7CA4FF)
-![Azure](https://img.shields.io/badge/Azure-0D0D0D?style=flat-square&logo=microsoftazure&logoColor=7CA4FF)
+![Azure](https://img.shields.io/badge/Azure-0D0D0D?style=flat-square)
 ![Render](https://img.shields.io/badge/Render-0D0D0D?style=flat-square&logo=render&logoColor=7CA4FF)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-0D0D0D?style=flat-square&logo=oracle&logoColor=7CA4FF)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-0D0D0D?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=7CA4FF)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=7CA4FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=7CA4FF)
@@ -83,13 +83,14 @@ Quode Palette is a professional **web development studio** building modern, resp
 **Data & Backend Services**
 <br/>
 ![Firebase](https://img.shields.io/badge/Firebase-0D0D0D?style=flat-square&logo=firebase&logoColor=7CA4FF)
+![Supabase](https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=7CA4FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=flat-square&logo=mongodb&logoColor=7CA4FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=7CA4FF)
 
 **Tools & Editors**
 <br/>
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D0D0D?style=flat-square&logo=visualstudio&logoColor=7CA4FF)
-![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=7CA4FF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D0D0D?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-0D0D0D?style=flat-square&logo=sublimetext&logoColor=7CA4FF)
 ![Vim](https://img.shields.io/badge/Vim-0D0D0D?style=flat-square&logo=vim&logoColor=7CA4FF)
 ![npm](https://img.shields.io/badge/npm-0D0D0D?style=flat-square&logo=npm&logoColor=7CA4FF)
